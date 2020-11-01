@@ -6,3 +6,4 @@ Lo interesante de Markdown es que funciona en muchas páginas, por ejemplo la ed
 
 *Curso creado por el increible Team de Platzi. 
 *Incluye ejemplos. 
+*Disponible para todas la edades. 
